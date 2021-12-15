@@ -1,3 +1,19 @@
+# BLOG GAME FINAL PROJECT
+## 1. Start Github page
+- Jekyll is a static site generator. 
+- We use **Github pages** which turn **Github Repo** into **Webpage**.
+- Because we have to consider many other factors like Server, DB, Package without **Github pages**.
+### step 1) Create Repository
+- We have to create a repository in Github which names of <username>.github.io
+
+
+
+
+
+
+
+
+
 # plainwhite
 
 Simplistic jekyll portfolio-style theme for writers.

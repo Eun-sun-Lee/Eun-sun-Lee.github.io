@@ -6,7 +6,7 @@ categories: jekyll update
 comments: true
 ---
 
-# Git Github Jekyll Markdown
+**Git Github Jekyll Markdown**
 1. **Git&Github**
 ![photo](/40.png)
 

@@ -47,8 +47,12 @@ git push origin main
 ![create repository](/5.png)
 Then, you use this token like password.
 ### step(5) check Github page setting
-** Repository Settings> Pages
-- 
+**Repository Settings> Pages**
+![create repository](/6.png)
+- Click that Url *https://eun-sun-lee.github.io/*
+![create repository](/7.png)
+- Then, you can see like above screen under the result of **index.html**.
+
 
 
 

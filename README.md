@@ -108,7 +108,86 @@ categories: jekyll update
 
 ## 3. Customize my blog
 ### step (1) Customizing blog?
-- We can customize our blog 
+- We can customize our blog in accordance with our style.
+![Customize my blog](/16.png)
+
+I changed profile photo into mine, and corrected the introduction(name, school).
+```
+Eunsun Lee
+Kookmin University 20203118
+```
+
+I uploaded the main page of the blog with my information. 
+![Customize my blog](/17.png)
+
+I posted my **introduction, experience, skills and personal info**. And, I also introduced eunsunBlog's **Contens**.
+
+If you press github icon, you can connect to Eun-sun-Lee's github Url.
+![Customize my blog](/23.png)
+If you press instagram icon, you can connect to Eun-sun-Lee's instagram Url.
+![Customize my blog](/24.png)
+If you press facebook icon, you can connect to Eun-sun-Lee's facebook Url.
+![Customize my blog](/25.png)
+
+### step (2) Reply with Disqus
+- First, we have to join *Disqus* and have a setting.
+![Customize my blog](/18.png)
+**Start>Configure Disqus**
+- You have to set your Website Name and enter the Website URL(your URL of the github.io)
+![Customize my blog](/19.png)
+- Then, in *Comment and Moderation Settings*, you have to mark *Balanced* and press the *Complete Setup* button to complete.
+- You have to add that lines in *_config.yml* to reflect Disqus to Blog.
+```
+comment:
+  provider: "disqus"
+  disqus:
+    shortname: "esssun"
+```
+- You have to copy the *Universal Code* in disqus homepage.
+*Warning message: You have to check **s.src** part whether it contains your Website Name*
+![Customize my blog](/20.png)
+
+- You have to add lines(1,2,8,9,22) like that to reflect disqus to post which I want to insert.
+- You have to delete annotation(10~13).
+```
+1 {% if page.comments %}
+2 <h2>Comments</h2>
+3 <div id="disqus_thread"></div>
+4 <script>
+5     /**
+6     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+7     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+8     let PAGE_URL = "{{site.url}}{{page.url}}"
+9     let PAGE_IDENTIFIER = "{{page.url}}"
+10    var disqus_config = function () {
+11    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+12    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+13    };
+14    (function() { // DON'T EDIT BELOW THIS LINE
+15    var d = document, s = d.createElement('script');
+16    s.src = 'https://esssun.disqus.com/embed.js';
+17    s.setAttribute('data-timestamp', +new Date());
+18    (d.head || d.body).appendChild(s);
+19    })();
+20</script>
+21<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+22{% endif %}
+```
+
+- If you designage **comments: True** in post, you will be allowed to comment on disqus.
+![Customize my blog](/21.png)
+- Then, you can see that screen on your blog post.
+![Customize my blog](/22.png)
+
+
+
+
+
+
+
+
+
+
 
 
 

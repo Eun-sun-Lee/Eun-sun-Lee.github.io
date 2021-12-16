@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Git!"
+title:  "Git&Github"
 date:   2021-12-15 17:40:41 +0900
 categories: jekyll update
 comments: true

@@ -167,7 +167,7 @@ To use a different image for dark mode, e.g. with different colors that work bet
 
 ```yaml
 plainwhite:
-  portfolio_image:      "assets/eunsunlee.png"
+  portfolio_image:      "assets/portfolio.png"
   portfolio_image_dark: "assets/portfolio_dark.png"
 ```
 

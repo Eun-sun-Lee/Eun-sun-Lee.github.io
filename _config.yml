@@ -14,6 +14,7 @@ sass:
 plainwhite:
   name: Eunsun Lee
   tagline: Kookmin University 20203118
+  analytics_id : esssun
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar

@@ -6,11 +6,17 @@ categories: jekyll update
 ---
 **Introduction**
 *Name* : Eunsun Lee
+
 *Birth* : 2001.2.22
+
 *School* : Kookmin-university
+
 *Major*: Software
+
 *Student id*: 20203118
+
 *location*: Seoul, South Korea
+
 *interest*: Computer vision, Embadded system design, machine learning
 
 **Experience**

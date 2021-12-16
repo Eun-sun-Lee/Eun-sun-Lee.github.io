@@ -108,7 +108,7 @@ categories: jekyll update
 
 ## 3. Customize my blog
 ### step (1) Customizing blog?
-
+- We can customize our blog 
 
 
 

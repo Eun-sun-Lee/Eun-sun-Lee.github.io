@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Git&Github Jekyll Markdown"
-date: 2021-12-15 07:38:09 +0900
+title:  "Git!"
+date:   2021-12-15 17:40:41 +0900
 categories: jekyll update
 comments: true
 ---

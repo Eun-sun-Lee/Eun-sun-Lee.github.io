@@ -5,18 +5,50 @@
 - Because we have to consider many other factors like Server, DB, Package without **Github pages**.
 ### step (1) Create Repository
 - We have to create a repository in Github which is a name of **<username>.github.io.**
+
 *Warning message*
+
 If you make a repository which has incorrect name, you can't use github pages!!!
 ![create repository](/2.png)
 ### step (2) Connect Local-Remote Repository to a Remote Repository
 - Copy the address of Remote Repository. 
 - To copy the address, you need to press the button which is on the right side.
 ![create repository](/3.png)
-- Then, you have to clone the repository.
+- Then, you have to clone the repository by using below commands.
 ```
 git clone https://github.com/Eun-sun-Lee/Eun-sun-Lee.github.io.git
 ```
 ![create repository](/4.png)
+### step (3) Write an example file which named index.html
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Github Page Test</title>
+	</head>
+	<body>
+		<h2>This is test page.</h2>
+		<p>이 페이지가 잘 보인다면 성공!</p>
+	</body>
+</html>
+```
+### step(4) git add, git commit, git push
+- Use **git add** command -> takes a modified file in your working directory and places the modified version in a staging area.
+- Use **git commit -m** command -> takes everything from the staging area and makes a permanent snapshot of the current state of your repository that is associated with a unique identifier.
+- Use **git push** command -> publish an upload local changes to a central repository. 
+```
+git add *
+git commit -m "add: index.html"
+git push origin main
+```
+
+*Warning message: You have to generate **Personal Access Token(PAT)** to continue.*
+
+![create repository](/5.png)
+
+
+
+
 
 
 

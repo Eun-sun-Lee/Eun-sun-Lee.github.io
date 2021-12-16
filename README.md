@@ -4,8 +4,23 @@
 - We use **Github pages** which turn **Github Repo** into **Webpage**.
 - Because we have to consider many other factors like Server, DB, Package without **Github pages**.
 ### step (1) Create Repository
-- We have to create a repository in Github which names of <username>.github.io
+- We have to create a repository in Github which is a name of **<username>.github.io.**
+*Warning message*
+If you make a repository which has incorrect name, you can't use github pages!!!
 ![create repository](/2.png)
+### step (2) Connect Local-Remote Repository to a Remote Repository
+- Copy the address of Remote Repository. 
+- To copy the address, you need to press the button which is on the right side.
+![create repository](/3.png)
+- Then, you have to clone the repository.
+```
+git clone https://github.com/Eun-sun-Lee/Eun-sun-Lee.github.io.git
+```
+![create repository](/4.png)
+
+
+
+
 
 
 

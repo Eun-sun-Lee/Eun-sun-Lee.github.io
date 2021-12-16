@@ -43,8 +43,13 @@ git push origin main
 ```
 
 *Warning message: You have to generate **Personal Access Token(PAT)** to continue.*
-
+- You have to generate **Personal Access Token(PAT)** after you decide Note, Expiration, Scope.
 ![create repository](/5.png)
+Then, you use this token like password.
+### step(5) check Github page setting
+** Repository Settings> Pages
+- 
+
 
 
 

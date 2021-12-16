@@ -18,7 +18,7 @@ comments: true
 ### Markdown
 
 ## 2. 
-Static website
+- Static website
 
 Jekyll
 - Jekyll is a static site generator. 

@@ -1,6 +1,5 @@
 # BLOG GAME FINAL PROJECT
-## 1. Start Github page
-- Jekyll is a static site generator. 
+## 1. Start Github page 
 - We use **Github pages** which turn **Github Repo** into **Webpage**.
 - Because we have to consider many other factors like Server, DB, Package without **Github pages**.
 ### step (1) Create Repository
@@ -52,6 +51,36 @@ Then, you use this token like password.
 - Click that Url *https://eun-sun-lee.github.io/*
 ![create repository](/7.png)
 - Then, you can see like above screen under the result of **index.html**.
+
+## 2. Add them on Blog
+### step (1) start Jekyll 
+- Jekyll is a static site generator.
+- You can start Jekyll with the next steps.
+```
+gem install bundler jekyll
+jekyll new . --force
+bundle exec jekyll serve
+```
+- After you execute *(bundle exec) jekyll serve*, you can see below screen if you access *https://127.0.0.1:4000*
+![create repository](/8.png)
+### step (2) Jekyll
+- In **_config.yml**, it is consists of Key Value.
+- In **_config.yml**, most of the blog characteristics are managed in this file.
+![create repository](/9.png)
+- You can also change your blog's name, email, and your name in accordance with your style.
+- After you change into them, you can upload to your *<username>.github.io* with below commands.
+```
+git add *
+git commit -m "add: index.html"
+git push origin main
+```
+![create repository](/10.png)
+### step (3) Upload first post!
+
+
+
+
+
 
 
 

@@ -76,6 +76,45 @@ git push origin main
 ```
 ![create repository](/10.png)
 ### step (3) Upload first post!
+- Blog Posts are progressed in **_posts**.
+- We can write new files which are form of *YYYY-MM-DD-TITLE.md* under the _posts directory. 
+![create repository](/11.png)
+- We have to start the file with that form.
+```
+layout: post
+title: "MongoDB 정리"
+date: 2021-11-10 20:34:09 +0900
+categories: jekyll update
+```
+- We can write the contents with the **Markdown** form.
+![create repository](/12.png)
+
+### step (4) Add Theme
+- Jekyll provides various themes.
+- We can use template fit for our purpose like blog, curriculum vitae, etc.
+- We can search for our themes in *http://jekyllthemes.org/*
+![create repository](/13.png)
+
+**plainwhite Theme**
+- I chose plainwhite Theme which is suitable for me. 
+![plainwhite theme preview](/screenshot.png)
+- To apply that theme, you have to follow these steps.
+
+1. You have to receive theme to local repository with *git clone*
+![create repository](/14.png)
+2. You have to reflect theme files(plainwhite Theme) to local repository.
+**You have to consider dependency when you reflect theme files.**
+![create repository](/15.png)
+
+## 3. Customize my blog
+### step (1) Customizing blog?
+
+
+
+
+
+
+
 
 
 

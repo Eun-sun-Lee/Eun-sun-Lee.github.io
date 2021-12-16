@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "eunsunBlog"
 date:   2021-12-16 02:40:41 +0900
 categories: jekyll update
 ---

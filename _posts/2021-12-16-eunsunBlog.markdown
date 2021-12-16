@@ -4,26 +4,30 @@ title:  "eunsunBlog"
 date:   2021-12-16 02:40:41 +0900
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+**Introduction**
+*Name* : Eunsun Lee
+*Birth* : 2001.2.22
+*School* : Kookmin-university
+*Major*: Software
+*Student id*: 20203118
+*location*: Seoul, South Korea
+*interest*: Computer vision, Embadded system design, machine learning
 
-Jekyll requires blog post files to be named according to the following format:
+**Experience**
+- *The World Embedded Software Contest 2021*: The purpose of the contest is acquisition of creative and innovative embadded SW development idea. It is also purpose to provide collaborative ideas between embedded SW and industry and to discover and nurture excellent human resources in Embedded SW field and to raise awareness and expand global base Pan-national on Embedded SW.
+The contest was held on Nov. 16-17. I participated the contest in the part of **intelligent humanoid** with other four team members, and we won the **first prize**. I had the role of **motion control** in the team. Motion control is to control a robot's movement and improve a robot's motion. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+**Skills and Personal Info**
+*Programming language*: Python, Java, R, C++
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+**eunsunBlog**
 
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
 end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+print_hi('eunsun')
+#=> prints 'Hi, eunsun' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+*Contents*: Git&Github, Jekyll, Markdown

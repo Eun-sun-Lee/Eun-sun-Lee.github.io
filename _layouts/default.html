@@ -12,6 +12,7 @@
 {%- endif -%}
 
 <body>
+
   <button class="tablink" onclick="openPage('AboutMe')">
     <b>ABOUT ME</b>
   </button>
@@ -21,6 +22,19 @@
   <button class="tablink" onclick="openPage('Skill')">
     <b>SKILL</b>
   </button>
+  <section class="content-section fix-bg-black" id="about">
+    <div class="container text-center">
+      <div class="row">
+        <div class="col-lg-10 mx-auto">
+          <h1 class="fix-font fix-font-white">Let me introduce myself !</h1>
+          <p class="lead mb-5 fix-font fix-font-white">안녕하세요, 저는 소프트웨어학부 20학번 이은선입니다
+            <a class="js-scroll-trigger" href="#portfolio">훌륭</a>한 개발자가 되는게 꿈입니다!</p>
+          <a class="js-scroll-trigger" href="#services"><img class="fix1 fix-bg-black" src="img/btn-white.png" alt=""></a>
+        </div>
+      </div>
+    </div>
+  </section>
+  
   <main class="container">
     <section class="about">
       <div class="about-header {{condensed_class}}">

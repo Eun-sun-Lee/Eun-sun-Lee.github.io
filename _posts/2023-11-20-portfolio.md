@@ -4,15 +4,13 @@ title:  "portfolio"
 date:   2023-11-20 23:43:41 +0900
 categories: jekyll update
 ---
-
 <br></br>
-
-<!-- <h2>💡 Introduce Me  </h2> -->
-**Introduce Me**
+<h2>💡 Introduce Me!  </h2>
+<!-- **Introduce Me!** -->
 <h1>🖐 주니어 개발자입니다 </b>.  <br></br></h1>
 
-<!-- <h2>🎓 Experience & Social Activity</h2> -->
-**Experience & Social Activity**
+<h2>🎓 Experience & Social Activity</h2>
+<!-- **Experience & Social Activity** -->
 |소속 및 단체|활동 기간|내용|
 |---|---|---|
 |OO대학교| 2020.03~  | OO대학교 소프트웨어학부 재학
@@ -21,8 +19,8 @@ categories: jekyll update
 |멋쟁이사자처럼|2022.03 ~ 2023.11| 대학생 연합 IT 창업 동아리 10th & 11th|
 |KOSS|2021.03 ~ 2022.08| 오픈소스 소프트웨어 학회 KOSS 회원|
 
-<!-- <h2>💻 Projects</h3> -->
-**Projects**
+<h2>💻 Projects</h3>
+<!-- **Projects** -->
 | 기간 | 내용 |
 | --- | --- |
 | 2023.02 ~ 2023.06 | 대학생을 위한 설문 플랫폼 서비스 '<a href="https://github.com/2023-AlphaProject/iBelieveSurvey_backend">IBelieveSurvey</a>' Backend 개발 |
@@ -34,8 +32,8 @@ categories: jekyll update
 | 2022.09 ~ 2022.12 | 발의법률안 서비스 '<a href="https://github.com/MopeTeam1/Nemsy_client">법률안 창구</a>' Frontend 개발 |
 | 2023.01 ~ 2023.02 | 지인 기반 카풀 서비스 '<a href="https://github.com/ShuPool/Shupool-frontend">ShuPool</a>' Frontend 개발 |
 
-<!-- <h2>🎖️ Awards/Certificates</h2> -->
-**Awards / Certificates**
+<h2>🎖️ Awards/Certificates</h2>
+<!-- **Awards / Certificates** -->
 <d>🥇 2021 제19회 임베디드 소프트웨어 경진대회 지능형 휴머노이드 부문 최우수상</d>
 <br/>
 <d>📃 2023 LG Aimers 온라인 AI 교육 수료</d>
@@ -46,8 +44,8 @@ categories: jekyll update
 <br/>
 <d></d>
 
-<!-- <h2>👨‍💻 Tech Skills!  </h2> -->
-**Tech Skills**
+<h2>👨‍💻 Tech Skills!  </h2>
+<!-- **Tech Skil** -->
 <h3> 📲 Frontend </h3>
 <div>
 <img alt="RED" src ="https://img.shields.io/badge/REACT-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>

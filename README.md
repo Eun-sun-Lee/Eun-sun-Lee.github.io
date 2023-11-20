@@ -121,7 +121,8 @@ Kookmin University 20203118
 I uploaded the main page of the blog with my information. 
 ![Customize my blog](/17.png)
 
-I posted my **introduction, experience, skills and personal info**. And, I also introduced eunsunBlog's **Contens**.
+<!-- I posted my **introduction, experience, skills and personal info**. And, I also introduced eunsunBlog's **Contens**. -->
+I posted my **Introduce Me, Experience & Social Activity, Projects, Awards / Certificates, Tech Skills**. 
 
 If you press github icon, you can connect to Eun-sun-Lee's github Url.
 ![Customize my blog](/23.png)

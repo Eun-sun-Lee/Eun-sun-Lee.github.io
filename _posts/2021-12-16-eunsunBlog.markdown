@@ -2,7 +2,6 @@
 layout: post
 title:  "eunsun's portfolio"
 date:   2023-11-20 23:43:41 +0900
-categories: jekyll update
 ---
 <h2>💡 Introduce Me!  </h2>
 <!-- **Introduce Me!** -->

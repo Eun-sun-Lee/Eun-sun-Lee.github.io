@@ -10,38 +10,38 @@ categories: jekyll update
 
 <h2>🎓 Experience & Social Activity</h2>
 <!-- **Experience & Social Activity** -->
-|　소속 및 단체　　　　　　|　활동 기간　　　　　　　　|　내용　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|
+소속 및 단체　　　　　　|　활동 기간　　　　　　　　|　내용　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|
 <br/>
-|　OO대학교　　　　　　　　|　2020.03~　　　　　　　|　OO대학교 소프트웨어학부 재학　　　　　　　　　　　　　　　　　　|
+OO대학교　　　　　　　　|　2020.03~　　　　　　　|　OO대학교 소프트웨어학부 재학　　　　　　　　　　　　　　　　　　|
 <br/>
-|　가토랩　　　　　　　　　|　2023.06 ~ 2023.08　| 사진관과 고객 간의 편의를 위한 서비스 Backend 인턴 개발자　|
+가토랩　　　　　　　　　|　2023.06 ~ 2023.08　| 사진관과 고객 간의 편의를 위한 서비스 Backend 인턴 개발자　|
 <br/>
-|　FOSCAR　　　　　　　　|　2022.08 ~ 2023.11　|　자율주행 연구 & 개발 동아리 회원　　　　　　　　　　　　　　　|
+FOSCAR　　　　　　　　|　2022.08 ~ 2023.11　|　자율주행 연구 & 개발 동아리 회원　　　　　　　　　　　　　　　|
 <br/>
-|　멋쟁이사자처럼　　　　　|　2022.03 ~ 2023.11　|　대학생 연합 IT 창업 동아리 10th & 11th　　　　　　　　　　|
+멋쟁이사자처럼　　　　　|　2022.03 ~ 2023.11　|　대학생 연합 IT 창업 동아리 10th & 11th　　　　　　　　　　|
 <br/>
-|　KOSS　　　　　　　　　|　2021.03 ~ 2022.08　|　오픈소스 소프트웨어 학회 KOSS 회원　　　　　　　　　　　　　　　|
+KOSS　　　　　　　　　|　2021.03 ~ 2022.08　|　오픈소스 소프트웨어 학회 KOSS 회원　　　　　　　　　　　　　　　|
 <br/>
 
 <h2>💻 Projects</h2>
 <!-- **Projects** -->
 |　　　　　　기간　　　　　　|　　　　　　　　　　　　　　　　　내용　　　　　　　　　　　　　　　　　　|
 <br/>
-|　2023.02 ~ 2023.06　|　대학생을 위한 설문 플랫폼 서비스 '<a href="https://github.com/2023-AlphaProject/iBelieveSurvey_backend">IBelieveSurvey</a>' Backend 개발　|
+2023.02 ~ 2023.06　|　대학생을 위한 설문 플랫폼 서비스 '<a href="https://github.com/2023-AlphaProject/iBelieveSurvey_backend">IBelieveSurvey</a>' Backend 개발　|
 <br/>
-|　2022.06 ~ 2022.08　|　같은 부대 내 장병들을 위한 커뮤니티 서비스 '<a href="https://github.com/Eun-sun-Lee/WithIn_back">WithIn</a>' Backend 개발　|
+2022.06 ~ 2022.08　|　같은 부대 내 장병들을 위한 커뮤니티 서비스 '<a href="https://github.com/Eun-sun-Lee/WithIn_back">WithIn</a>' Backend 개발　|
 <br/>
-|　2022.06 ~ 2022.08　|　같은 부대 내 장병들을 위한 커뮤니티 서비스 '<a href="https://github.com/Eun-sun-Lee/WithIn_front">WithIn</a>' Frontend 개발　|
+2022.06 ~ 2022.08　|　같은 부대 내 장병들을 위한 커뮤니티 서비스 '<a href="https://github.com/Eun-sun-Lee/WithIn_front">WithIn</a>' Frontend 개발　|
 <br/>
-|　2022.12 ~ 2022.02　|　설날 맞이 지인과 덕담을 주고받을 수 있는 서비스 '<a href="https://github.com/Eun-sun-Lee/Making-Tteokguk-BE">떡국만들기</a>' Backend 개발　|
+2022.12 ~ 2022.02　|　설날 맞이 지인과 덕담을 주고받을 수 있는 서비스 '<a href="https://github.com/Eun-sun-Lee/Making-Tteokguk-BE">떡국만들기</a>' Backend 개발　|
 <br/>
-|　2022.06 ~ 2022.09　|　제로웨이스터들을 위한 플랫폼 서비스 '<a href="https://github.com/People-zero/Bzero">BZero</a>' Frontend 개발　|
+2022.06 ~ 2022.09　|　제로웨이스터들을 위한 플랫폼 서비스 '<a href="https://github.com/People-zero/Bzero">BZero</a>' Frontend 개발　|
 <br/>
-|　2022.06 ~ 2022.09　|　공동 배달 서비스 '<a href="https://github.com/Eun-sun-Lee/eatogether">Eatogether</a>' 팀장 및 Backend 개발　|
+2022.06 ~ 2022.09　|　공동 배달 서비스 '<a href="https://github.com/Eun-sun-Lee/eatogether">Eatogether</a>' 팀장 및 Backend 개발　|
 <br/>
-|　2022.09 ~ 2022.12　|　발의법률안 서비스 '<a href="https://github.com/MopeTeam1/Nemsy_client">법률안 창구</a>' Frontend 개발　|
+2022.09 ~ 2022.12　|　발의법률안 서비스 '<a href="https://github.com/MopeTeam1/Nemsy_client">법률안 창구</a>' Frontend 개발　|
 <br/>
-|　2023.01 ~ 2023.02　|　지인 기반 카풀 서비스 '<a href="https://github.com/ShuPool/Shupool-frontend">ShuPool</a>' Frontend 개발　|
+2023.01 ~ 2023.02　|　지인 기반 카풀 서비스 '<a href="https://github.com/ShuPool/Shupool-frontend">ShuPool</a>' Frontend 개발　|
 <br/>
 
 <h2>🎖️ Awards/Certificates</h2>

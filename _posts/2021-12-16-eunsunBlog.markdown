@@ -10,7 +10,7 @@ categories: jekyll update
 
 <h2>🎓 Experience & Social Activity</h2>
 <!-- **Experience & Social Activity** -->
-|소속 및 단체         | 활동 기간           | 내용                                              |
+|소속 및 단체　　　　　　　| 활동 기간　　　　　　　| 내용　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|
 <br/>
 | OO대학교           | 2020.03~          | OO대학교 소프트웨어학부 재학                           |
 <br/>

@@ -10,9 +10,9 @@ categories: jekyll update
 <br/>
 <h2>🎓 Experience & Social Activity</h2>
 <!-- **Experience & Social Activity** -->
+<h4>
 소속 및 단체　　　　　　|　활동 기간　　　　　　　|　내용　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 <br/>
-<h5>
 OO대학교　　　　　　　|　2020.03~　　　　　　|　OO대학교 소프트웨어학부 재학　　　　　　　　　　　　　　　　　　
 <br/>
 가토랩　　　　　　　　　|　2023.06 ~ 2023.08　| 사진관과 고객 간의 편의를 위한 서비스 Backend 인턴 개발자　
@@ -22,7 +22,7 @@ FOSCAR　　　　　　　|　2022.08 ~ 2023.11　|　자율주행 연구 & 개
 멋쟁이사자처럼　　　　　|　2022.03 ~ 2023.11　|　대학생 연합 IT 창업 동아리 10th & 11th　　　　　　　　　　
 <br/>
 KOSS　　　　　　　　　|　2021.03 ~ 2022.08　|　오픈소스 소프트웨어 학회 KOSS 회원　　　
-</h5>　　　　　　　　　　　
+</h4>　　　　　　　　　　　
 <br/>
 <br/>
 <h2>💻 Projects</h2>

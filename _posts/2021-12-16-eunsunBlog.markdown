@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 <h2>💡 Introduce Me!  </h2>
 <!-- **Introduce Me!** -->
-<h1>🖐 열의와 도전을 통해 끊임없이 성장하는 주니어 개발자입니다.</h1>
+<h3>🖐 열의와 도전을 통해 끊임없이 성장하는 주니어 개발자입니다.</h3>
 
 <h2>🎓 Experience & Social Activity</h2>
 <!-- **Experience & Social Activity** -->
@@ -46,14 +46,12 @@ KOSS　　　　　　　　　|　2021.03 ~ 2022.08　|　오픈소스 소프�
 
 <h2>🎖️ Awards/Certificates</h2>
 <!-- **Awards / Certificates** -->
+<h3>
 <d>🥇 2021 제19회 임베디드 소프트웨어 경진대회 지능형 휴머노이드 부문 최우수상</d>
-<br/>
 <d>📃 2023 LG Aimers 온라인 AI 교육 수료</d>
-<br/>
 <d>🎖 2023 대학생 창작 모빌리티 경진대회 무인 모빌리티 부문 우수상</d>
-<br/>
 <d>🥇 2023 자율주행 S/W 고도화 대회 센터장상(대상)</d>
-<br/>
+</h3>
 <d></d>
 
 <h2>👨‍💻 Tech Skills!  </h2>

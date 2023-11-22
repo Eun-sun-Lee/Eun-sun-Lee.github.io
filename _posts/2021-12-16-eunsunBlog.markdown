@@ -70,7 +70,6 @@ KOSS　　　　　　　　　|　2021.03 ~ 2022.08　|　오픈소스 소프�
 <img alt="RED" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img alt="RED" src ="https://img.shields.io/badge/REACT NATIVE-3655FF.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/Android Studio-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
 </div>
 
@@ -80,12 +79,13 @@ KOSS　　　　　　　　　|　2021.03 ~ 2022.08　|　오픈소스 소프�
 <img alt="RED" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
   <img alt="RED" src ="https://img.shields.io/badge/JAVA-004027.svg?&style=for-the-badge&logo=Jameson&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/SPRING-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/SPRING BOOT-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
 
 <h3>⚒ Embedded </h3>
-<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
 </div>
 <h2>📝 Tools and SNS </h2>

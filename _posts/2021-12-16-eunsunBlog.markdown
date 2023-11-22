@@ -12,6 +12,7 @@ categories: jekyll update
 <!-- **Experience & Social Activity** -->
 소속 및 단체　　　　　　|　활동 기간　　　　　　　|　내용　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 <br/>
+<h5>
 OO대학교　　　　　　　|　2020.03~　　　　　　|　OO대학교 소프트웨어학부 재학　　　　　　　　　　　　　　　　　　
 <br/>
 가토랩　　　　　　　　　|　2023.06 ~ 2023.08　| 사진관과 고객 간의 편의를 위한 서비스 Backend 인턴 개발자　
@@ -20,11 +21,13 @@ FOSCAR　　　　　　　|　2022.08 ~ 2023.11　|　자율주행 연구 & 개
 <br/>
 멋쟁이사자처럼　　　　　|　2022.03 ~ 2023.11　|　대학생 연합 IT 창업 동아리 10th & 11th　　　　　　　　　　
 <br/>
-KOSS　　　　　　　　　|　2021.03 ~ 2022.08　|　오픈소스 소프트웨어 학회 KOSS 회원　　　　　　　　　　　　　　
+KOSS　　　　　　　　　|　2021.03 ~ 2022.08　|　오픈소스 소프트웨어 학회 KOSS 회원　　　
+</h5>　　　　　　　　　　　
 <br/>
 <br/>
 <h2>💻 Projects</h2>
 <!-- **Projects** -->
+<h4>
 |　　　　　　기간　　　　|　　　　　　　　　　　　　　　　　내용　　　　　　　　　　　　　　　　　　
 <br/>
 2023.02 ~ 2023.06　|　대학생을 위한 설문 플랫폼 서비스 '<a href="https://github.com/2023-AlphaProject/iBelieveSurvey_backend">IBelieveSurvey</a>' Backend 개발　
@@ -42,6 +45,7 @@ KOSS　　　　　　　　　|　2021.03 ~ 2022.08　|　오픈소스 소프�
 2022.09 ~ 2022.12　|　발의법률안 서비스 '<a href="https://github.com/MopeTeam1/Nemsy_client">법률안 창구</a>' Frontend 개발
 <br/>
 2023.01 ~ 2023.02　|　지인 기반 카풀 서비스 '<a href="https://github.com/ShuPool/Shupool-frontend">ShuPool</a>' Frontend 개발　
+</h4>
 <br/>
 <br/>
 <h2>🎖️ Awards/Certificates</h2>

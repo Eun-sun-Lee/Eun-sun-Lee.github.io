@@ -10,23 +10,23 @@ categories: jekyll update
 
 <h2>🎓 Experience & Social Activity</h2>
 <!-- **Experience & Social Activity** -->
-| 소속 및 단체        | 활동 기간              | 내용                                             |
-| ---------------- | ---------------- | ------------------------------------------------- |
-| OO대학교           | 2020.03~         | OO대학교 소프트웨어학부 재학                       |
+|소속 및 단체         | 활동 기간           | 내용                                              |
+<br/>
+| OO대학교           | 2020.03~          | OO대학교 소프트웨어학부 재학                           |
 <br/>
 | 가토랩             | 2023.06 ~ 2023.08 | 사진관과 고객 간의 편의를 위한 웹 서비스 Backend 인턴 개발자 |
 <br/>
-| FOSCAR           | 2022.08 ~ 2023.11 | 자율주행 연구 & 개발 동아리 회원                      |
+| FOSCAR           | 2022.08 ~ 2023.11 | 자율주행 연구 & 개발 동아리 회원                        |
 <br/>
-| 멋쟁이사자처럼      | 2022.03 ~ 2023.11 | 대학생 연합 IT 창업 동아리 10th & 11th             |
+| 멋쟁이사자처럼       | 2022.03 ~ 2023.11 | 대학생 연합 IT 창업 동아리 10th & 11th                |
 <br/>
-| KOSS             | 2021.03 ~ 2022.08 | 오픈소스 소프트웨어 학회 KOSS 회원    
+| KOSS             | 2021.03 ~ 2022.08 | 오픈소스 소프트웨어 학회 KOSS 회원                      |
 <br/>
 
 <h2>💻 Projects</h2>
 <!-- **Projects** -->
-| 기간 | 내용 |
-| --- | --- |
+|        기간        |                         내용                         |
+<br/>
 | 2023.02 ~ 2023.06 | 대학생을 위한 설문 플랫폼 서비스 '<a href="https://github.com/2023-AlphaProject/iBelieveSurvey_backend">IBelieveSurvey</a>' Backend 개발 |
 <br/>
 | 2022.06 ~ 2022.08 | 같은 부대 내 장병들을 위한 커뮤니티 서비스 '<a href="https://github.com/Eun-sun-Lee/WithIn_back">WithIn</a>' Backend 개발 |

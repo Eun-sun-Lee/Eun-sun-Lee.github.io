@@ -28,7 +28,7 @@ KOSS　　　　　　　　|　2021.03 ~ 2022.08　　|　오픈소스 소프�
 <h2>💻 Projects</h2>
 <!-- **Projects** -->
 <h4>
-|　　　　　　기간　　　　|　　　　　　　　　　　　　　　　　내용　　　　　　　　　　　　　　　　　　
+|　　　　　기간　　　　|　　　　　　　　　　　　　　　내용　　　　　　　　　　　　　　　　　　
 <br/>
 2023.02 ~ 2023.06　|　대학생을 위한 설문 플랫폼 서비스 '<a href="https://github.com/2023-AlphaProject/iBelieveSurvey_backend">IBelieveSurvey</a>' Backend 개발　
 <br/>

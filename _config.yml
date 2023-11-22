@@ -1,6 +1,6 @@
 title: BLOG GAME
 author: eunsunLee
-email: eunsun2080@naver.com
+email: eunsun0222oo@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -27,9 +27,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    instagram: _esssun
+    # instagram: _esssun
     github:  Eun-sun-Lee
-    facebook: essssun
+    # facebook: essssun
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
@@ -39,7 +39,7 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    email: eunsun0222oo@gmail.com
 
     # Mastodon instances
     # mastodon:

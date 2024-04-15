@@ -69,9 +69,9 @@ KOSS　　　　　　　　|　2021.03 ~ 2022.08　|　오픈소스 소프트�
 <h2>📝 깃허브 및 기술 블로그 </h2>
 <div>
 <h3>깃허브 주소</h3>
-<a href="https://github.com/Eun-sun-Lee/"></a>
+<a href="https://github.com/Eun-sun-Lee/">https://github.com/Eun-sun-Lee/</a>
 <h3>기술 블로그 주소</h3>
- <a href="https://esssun.tistory.com/"></a>
+<a href="https://esssun.tistory.com/">https://esssun.tistory.com/</a>
 </div><br/>
 
 

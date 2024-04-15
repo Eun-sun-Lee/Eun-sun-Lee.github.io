@@ -65,6 +65,16 @@ KOSS　　　　　　　　|　2021.03 ~ 2022.08　|　오픈소스 소프트�
 <br/>
 <d></d>
 
+</div>
+<h2>📝 깃허브 및 기술 블로그 </h2>
+<div>
+<h3>깃허브 주소</h3>
+<a href="https://github.com/Eun-sun-Lee/"></a>
+<h3>기술 블로그 주소</h3>
+ <a href="https://esssun.tistory.com/"></a>
+</div><br/>
+
+
 <h2>👨‍💻 Tech Skills!  </h2>
 <!-- **Tech Skil** -->
 <h3> 📲 Frontend </h3>
@@ -89,12 +99,3 @@ KOSS　　　　　　　　|　2021.03 ~ 2022.08　|　오픈소스 소프트�
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-
-</div>
-<h2>📝 깃허브 및 기술 블로그 </h2>
-<div>
-<h3>깃허브 주소</h3>
-<a href="https://github.com/Eun-sun-Lee/"><img alt="RED" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<h3>기술 블로그 주소</h3>
- <a href="https://esssun.tistory.com/"><img alt="RED" src ="https://img.shields.io/badge/Tistory-FF6600.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-</div><br/>

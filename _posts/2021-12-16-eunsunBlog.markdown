@@ -91,9 +91,10 @@ KOSS　　　　　　　　|　2021.03 ~ 2022.08　|　오픈소스 소프트�
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
 </div>
-<h2>📝 Tools and SNS </h2>
+<h2>📝 깃허브 및 기술 블로그 </h2>
 <div>
- <a href="https://esssun.tistory.com/"><img alt="RED" src ="https://img.shields.io/badge/Tistory-FF6600.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<h3>깃허브 주소</h3>
 <a href="https://github.com/Eun-sun-Lee/"><img alt="RED" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-
+<h3>기술 블로그 주소</h3>
+ <a href="https://esssun.tistory.com/"><img alt="RED" src ="https://img.shields.io/badge/Tistory-FF6600.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 </div><br/>
